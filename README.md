@@ -1,15 +1,14 @@
 # Spa Ceylon App
 
-A simple **Android application** built using **Kotlin**, inspired by the *Spa Ceylon – Ayurveda Wellness* brand.  
-This mini project demonstrates basic Android UI design and user navigation between multiple screens.
+A simple **Android application** built using **Kotlin**, inspired by the *Spa Ceylon – Ayurveda Wellness* brand. This mini project demonstrates basic Android UI design and user navigation between multiple screens.
 
 ## App Overview
 
 The app includes **three main screens**:
 
-1. **Login Screen** – Users can enter their username, password, and email to log in.  
-2. **Welcome Screen** – Displays a welcome message with the user’s details after login.  
-3. **Profile Screen** – Shows user information (username, email, password) with options to edit the profile or return to login.
+1. **Login Screen** - Users can enter their username, password, and email to log in.  
+2. **Welcome Screen** - Displays a welcome message with the user’s details after login.  
+3. **Profile Screen** - Shows user information (username, email, password) with options to edit the profile or return to login.
 
 ## App Preview
 
@@ -53,7 +52,7 @@ spa-ceylon-app/
 ├── app/
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/com/example/spaceylonapp/
+│   │   │   ├── java/com/example/simpleapp/
 │   │   │   │   ├── LoginActivity.kt
 │   │   │   │   ├── WelcomeActivity.kt
 │   │   │   │   └── ProfileActivity.kt
